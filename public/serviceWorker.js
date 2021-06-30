@@ -4,8 +4,9 @@ const cacheName = "v1";
 const cacheAssets = [
     './',
     './static/js/bundle.js',
-    './static/js/main.chunk.js',
-    './static/js/vendors~main.chunk.js',
+    './static/css/main.f16f8172.chunk.css',
+    './sstatic/js/2.f8be9857.chunk.js',
+    './static/js/2.f8be9857.chunk.js',
     './index.html',
 ];
 
